@@ -10,12 +10,14 @@
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMLF&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+ ##
+ 
  <h1>Contatos</h1>
  <div> 
   <a href="https://instagram.com/guii_moreiira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/BVJfpu96mx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:guilhermefurlaneto@alunos.utfpr.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+   <a href = "mailto:guilhermefurlaneto@alunos.utfpr.edu.br"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>****
 </div>
 
 ##
