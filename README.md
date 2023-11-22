@@ -43,6 +43,3 @@
 
 <div align="center">
 
-<h2>Skills</h2><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,c,java,mysql,sass,git&perline=10">
-</div>
