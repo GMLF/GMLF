@@ -1,3 +1,5 @@
+## 
+<div align="center"><img src=https://64.media.tumblr.com/tumblr_lw5mn40aq01qip80b.gif></div>
 
 ## <b>Olá!! Me chamo Guilherme Moreira</b> 
  <a>Estudante de Engenharia da Computação - UTFPR</a>
@@ -36,8 +38,6 @@
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
-
-<div align="center"><img src=https://64.media.tumblr.com/tumblr_lw5mn40aq01qip80b.gif></div>
 
 
 <div align="center">
