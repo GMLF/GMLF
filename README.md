@@ -9,7 +9,6 @@
 
  <div>
   <a href="https://github.com/GMLF">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GMLF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMLF&layout=compact&langs_count=7&theme=dark"/>
 
 <img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api?username=GMLF&theme=transparent&text_color=bcccfc&title_color=5474fc&hide_border=true&include_all_commits=true" alt="Guilherme Moreira github stats">
