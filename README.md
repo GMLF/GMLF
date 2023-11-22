@@ -1,5 +1,5 @@
 ## <div align="center"><img src=https://64.media.tumblr.com/tumblr_lw5mn40aq01qip80b.gif></div>
-## <div align="center"><img src=https://imgur.com/saTtQnT></div>
+## <div align="center"><img src=<blockquote class="imgur-embed-pub" lang="en" data-id="saTtQnT"><a href="https://imgur.com/saTtQnT">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>></div>
 
 ## <b>Olá!! Me chamo Guilherme Moreira</b> 
  <a>Estudante de Engenharia da Computação - UTFPR</a>
