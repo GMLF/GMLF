@@ -8,11 +8,11 @@
 
 
  <div>
-   <a href="https://github.com/GMLF">
+  <a href="https://github.com/GMLF">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=GMLF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMLF&layout=compact&langs_count=7&theme=dark"/>
 
-<img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api?username=gabristle&theme=transparent&text_color=bcccfc&title_color=5474fc&hide_border=true" alt="Gabriella Costa's github stats">
+<img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api?username=GMLF&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Guilherme Moreira github stats">
 <img height="195px" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabristle&theme=transparent&title_color=5474fc&text_color=bcccfc&layout=compact&hide_border=true" alt="Gabriella Costa's github top langs"><br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabristle&bg_color=0d1117&color=5474fc&line=5474fc&point=bcccfc&area=true&hide_border=true">
 </div>
