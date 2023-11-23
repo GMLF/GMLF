@@ -1,4 +1,4 @@
-## <div align="center">  <img src="https://png.pngtree.com/png-vector/20201209/ourmid/pngtree-christmas-light-design-png-image_2540165.jpg" /></div>
+## <div align="center">  <img src="https://www.pngfind.com/pngs/m/341-3415358_bolas-de-natal-vermelhas-png-christmas-background-png.png" /></div>
 
 ## <b>Olá!! Me chamo Guilherme Moreira</b> 
  <a>Estudante de Engenharia da Computação - UTFPR</a>
