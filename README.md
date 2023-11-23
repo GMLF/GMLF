@@ -1,4 +1,4 @@
-## <div align="center"><img src=https://64.media.tumblr.com/tumblr_lw5mn40aq01qip80b.gif></div>
+## <div align="center">  <img src="https://i.imgur.com/L9di9Sw.jpg" /></div>
 
 ## <b>Olá!! Me chamo Guilherme Moreira</b> 
  <a>Estudante de Engenharia da Computação - UTFPR</a>
