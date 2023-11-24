@@ -1,3 +1,4 @@
+<div align="center"><img src="https://pa1.aminoapps.com/7033/3d7a0ea08d2cd28414bd23c025015aa49b44c528r1-932-200_hq.gif"></div>
 
 ## <b>Olá!! Me chamo Guilherme Moreira</b> 
  <a>Estudante de Engenharia da Computação - UTFPR</a>
