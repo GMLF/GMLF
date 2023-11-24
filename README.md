@@ -3,7 +3,8 @@
 </div>
 
 ## <b>Olá, galera! Eu sou o Guilherme Moreira! 🚀</b>
-<a>Estudante apaixonado por Engenharia da Computação na UTFPR, representando Londrina & Apucarana - PR. 🎓</a>
+ <a>Estudante de Engenharia da Computação - UTFPR</a>
+ <p>Londrina & Apucarana - PR</p>
 
 ##
 
