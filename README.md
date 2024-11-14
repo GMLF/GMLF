@@ -1,6 +1,8 @@
 <div align="center">
   <! programação mês sem ter nada<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif">
-  <img src="https://usagif.com/wp-content/uploads/2021/4fh5wi/christmas-lights-acegif-61.gif">
+
+  <img src="https://usagif.com/wp-content/uploads/gify/christmas-lights-transparent-background-13-usagif.gif">
+
   
 </div>
 
