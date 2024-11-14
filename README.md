@@ -1,7 +1,7 @@
 <div align="center">
   <! programação mês sem ter nada<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif">
-
-  <img src="https://usagif.com/wp-content/uploads/gify/christmas-lights-transparent-background-13-usagif.gif">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1669111042316558828/26F32D152D66A180C9392AE9BDE4443EA487C101/">
+  
 
   
 </div>
