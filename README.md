@@ -1,5 +1,5 @@
 <div align="center">
-  #programação mês sem ter nada<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif">
+  <! programação mês sem ter nada<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif">> 
 </div>
 
 ## <b>Olá, galera! Eu sou o Guilherme Moreira! 🚀</b>
