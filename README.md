@@ -1,5 +1,7 @@
 <div align="center">
   <! programação mês sem ter nada<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif">
+  <img src="https://pa1.aminoapps.com/7033/9f777272a674f911f01f08742b11390adfd4e42br1-480-446_hq.gif">
+  
 </div>
 
 ## <b>Olá, galera! Eu sou o Guilherme Moreira! 🚀</b>
