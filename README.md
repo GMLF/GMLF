@@ -5,7 +5,7 @@
 
   
 </div>
-##<b>Olá, galera! Eu sou o Guilherme Moreira! 🚀</b>
+#<b>Olá, galera! Eu sou o Guilherme Moreira! 🚀</b>
  <p>Estudante de Engenharia da Computação na UTFPR, representando Londrina & Apucarana - PR. 🎓</p>
 
 ##
